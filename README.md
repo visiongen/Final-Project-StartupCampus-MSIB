@@ -6,11 +6,13 @@ Please describe your Startup Campus final project here. You may should your <b>m
 ## Contributor
 | Full Name | Affiliation | Email | LinkedIn | Role |
 | --- | --- | --- | --- | --- |
-| ... | ... | ... | ... | Team Lead |
-| ... | ... | ... | ... | Team Member |
-| ... | ... | ... | ... |Team Member |
-| ... | ... | ... | ... | ... |
-| ... | ... | ... | ... | ... |
+| Muhammad Arsyad | Universitas Sebelas Maret | muharsyad2201@gmail.com | [link](https://id.linkedin.com/in/muhammad-arsyad-59865120a) | Team Lead |
+| Maulidia Nadhifa Aulia Shalsabila | Universitas Airlangga | maulidianadhifa@gmail.com | [link](https://linkedin.com/in/maulidia-nadhifa-aulia-shalsabila-4978a9292) | Team Member |
+| Pinka Ananda | Universitas Lampung | pinkaananda@gmail.com | [link](https://www.linkedin.com/in/pinka-ananda) |Team Member |
+| Sultan Fahrezy Syahdwinata Nugraha | Universitas Indonesia | sultan.fahrezy.sn@gmail.com | [link](https://www.linkedin.com/in/sultanconnect/) | Team Member |
+| Abel Yehud Silalahi | Universitas Jendral Achmad Yani Yogyakarta | abelyehuds@gmail.com | [link](https://id.linkedin.com/in/abel-yehud-silalahi-b18684228) | Team Member |
+| Anandhita Ganang Alimana | Universitas Indonesia | alimanaanandhita15@gmail.com | [link](https://www.linkedin.com/in/anandhita-ganang-768a75219/) | Team Member |
+| Sari Mita Dewi | STMIK Insan Pembangunan | sarimitadewi10@gmail.com | [link](https://www.linkedin.com/in/sari-mita-dewi-48a0a0292) | Team Member |
 | Nicholas Dominic | Startup Campus, AI Track | nic.dominic@icloud.com | [link](https://linkedin.com/in/nicholas-dominic) | Supervisor |
 
 ## Setup
