@@ -17,10 +17,22 @@ Please describe your Startup Campus final project here. You may should your <b>m
 
 ## Setup
 ### Prerequisite Packages (Dependencies)
-- pandas==2.1.0
-- openai==0.28.0
-- google-cloud-aiplatform==1.34.0
-- google-cloud-bigquery==3.12.0
+- pandas==1.5.3
+- numpy==1.23.5
+- torch==2.1.0+cu118
+- torchvision==0.16.0+cu118
+- opencv-python==4.8.0
+- Pillow==9.4.0
+- matplotlib==3.7.1
+- os
+- math
+- time
+- itertools
+- datetime
+- sys
+- argparse
+- torchsummary
+- google.colab.patches
 - ...
 - ...
 
