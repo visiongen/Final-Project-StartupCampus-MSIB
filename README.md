@@ -80,7 +80,7 @@ Any improvements or modifications of your base model, should be summarized in th
 | model | GAN Mode | Architecture |
 | --- | --- | --- |
 | pix_2_pix_pinka | Vanilla | ResNet |
-| vit_b_16 | LSGAN | UNet |
+| pix_2pix_sultan | LSGAN | UNet |
 
 #### 3. Training/Validation Curve
 Insert an image regarding your training and evaluation performances (especially their losses). The aim is to assess whether your model is fit, overfit, or underfit.
