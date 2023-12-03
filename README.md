@@ -78,7 +78,7 @@ Feel free to adjust the columns in the table below.
 Any improvements or modifications of your base model, should be summarized in this table. Feel free to adjust the columns in the table below.
 
 | model | GAN Mode | Architecture |
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | pix_2_pix_pinka | Vanilla | ResNet |
 | vit_b_16 | LSGAN | UNet |
 
