@@ -1,7 +1,7 @@
 # Produsket : Transformasi Gambar Produk Dari Sketsa Dengan Cepat
 
 ## Project Description
-Please describe your Startup Campus final project here. You may should your <b>model architecture</b> in JPEG or GIF.
+ProduSket is project created as a Final Project for MSIB Startup Campus: AI Track - Computer Vision program. ProduSket takes advantage of General Adversarial Model (GAN) to turn fashion sketches into actual real life images. This project uses Pix2Pix Sketch2Shoes model as base and modifies it. Using Produsket you can turn your fashion sketch into an a real life image quickly. Produsket enables the speed up process of fashion item creation with this. 
 
 ## Contributor
 | Full Name | Affiliation | Email | LinkedIn | Role |
