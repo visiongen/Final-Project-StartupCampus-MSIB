@@ -120,8 +120,9 @@ Provide a link to your short video, that should includes the project background 
 ## References
 Provide all links that support this final project, i.e., papers, GitHub repositories, websites, etc.
 - Link: [https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset](https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset)
-- Link: https://...
-- Link: https://...
+- Link: [https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
+- Link: [https://github.com/junyanz/BicycleGAN](https://github.com/junyanz/BicycleGAN)
+- Link: [https://arxiv.org/abs/1611.07004](https://arxiv.org/abs/1611.07004)
 
 ## Additional Comments
 Provide your team's additional comments or final remarks for this project. For example,
