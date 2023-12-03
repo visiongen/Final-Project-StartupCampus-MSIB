@@ -74,14 +74,16 @@ Any improvements or modifications of your base model, should be summarized in th
 
 #### 3. Training/Validation Curve
 Insert an image regarding your training and evaluation performances (especially their losses). The aim is to assess whether your model is fit, overfit, or underfit.
+
+Berikut grafik discriminator loss dan generator loss
+
+<img src="https://github.com/visiongen/Final-Project-StartupCampus-MSIB/blob/main/assets/discriminator_loss.png?raw=true" width=50%><img src="https://github.com/visiongen/Final-Project-StartupCampus-MSIB/blob/main/assets/generator_loss.png?raw=true" width=50%>
  
 ### Testing
-Show some implementations (demos) of this model. For example, if your team works on object detection tasks, show an image or a video (or GIF) of how your model performs on the testing data.
 
 Berikut hasil gambar yang telah digenerate, dimana pada baris pertama merupakan gambar input, baris kedua merupakan gambar asli, dan baris ketiga merupakan hasil generate
 
-|![image](https://github.com/visiongen/Final-Project-StartupCampus-MSIB/blob/main/assets/image_736.jpg?raw=true)|![image](https://github.com/visiongen/Final-Project-StartupCampus-MSIB/blob/main/assets/image_809.jpg?raw=true)|![image](https://github.com/visiongen/Final-Project-StartupCampus-MSIB/blob/main/assets/image_810.jpg?raw=true)|![image](https://github.com/visiongen/Final-Project-StartupCampus-MSIB/blob/main/assets/image_855.jpg?raw=true)|![image](https://github.com/visiongen/Final-Project-StartupCampus-MSIB/blob/main/assets/image_882.jpg?raw=true)|![image](https://github.com/visiongen/Final-Project-StartupCampus-MSIB/blob/main/assets/image_885.jpg?raw=true)|![image](https://github.com/visiongen/Final-Project-StartupCampus-MSIB/blob/main/assets/image_887.jpg?raw=true)|![image](https://github.com/visiongen/Final-Project-StartupCampus-MSIB/blob/main/assets/image_889.jpg?raw=true)|![image](https://github.com/visiongen/Final-Project-StartupCampus-MSIB/blob/main/assets/image_922.jpg?raw=true)|![image](https://github.com/visiongen/Final-Project-StartupCampus-MSIB/blob/main/assets/image_950.jpg?raw=true)|
-
+<img src="https://github.com/visiongen/Final-Project-StartupCampus-MSIB/blob/main/assets/image_736.jpg?raw=true" width=10%><img src="https://github.com/visiongen/Final-Project-StartupCampus-MSIB/blob/main/assets/image_809.jpg?raw=true" width=10%><img src="https://github.com/visiongen/Final-Project-StartupCampus-MSIB/blob/main/assets/image_810.jpg?raw=true" width=10%><img src="https://github.com/visiongen/Final-Project-StartupCampus-MSIB/blob/main/assets/image_855.jpg?raw=true" width=10%><img src="https://github.com/visiongen/Final-Project-StartupCampus-MSIB/blob/main/assets/image_882.jpg?raw=true" width=10%><img src="https://github.com/visiongen/Final-Project-StartupCampus-MSIB/blob/main/assets/image_885.jpg?raw=true" width=10%><img src="https://github.com/visiongen/Final-Project-StartupCampus-MSIB/blob/main/assets/image_887.jpg?raw=true" width=10%><img src="https://github.com/visiongen/Final-Project-StartupCampus-MSIB/blob/main/assets/image_889.jpg?raw=true" width=10%><img src="https://github.com/visiongen/Final-Project-StartupCampus-MSIB/blob/main/assets/image_922.jpg?raw=true" width=10%><img src="https://github.com/visiongen/Final-Project-StartupCampus-MSIB/blob/main/assets/image_950.jpg?raw=true" width=10%>
 
 ### Deployment (Optional)
 Pada deployment kami menggunakan streamlit, dapat diakses pada link berikut : [visiongen.streamlit.app](https://visiongen.streamlit.app).
