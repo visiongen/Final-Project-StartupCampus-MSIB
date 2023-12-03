@@ -39,11 +39,11 @@ Please describe your Startup Campus final project here. You may should your <b>m
 ### Environment
 | | |
 | --- | --- |
-| CPU | Example: Apple M3 Pro 12-core CPU |
-| GPU | Example: Nvidia A100 (x1) |
-| ROM | Example: 1 TB SSD |
-| RAM | Example: 36 GB |
-| OS | Example: macOS Sonoma v14.1.1 |
+| CPU | Intel(R) Xeon(R) CPU @ 2.00GHz |
+| GPU | Nvidia A100 (x1) |
+| ROM | 225 GB SSD |
+| RAM | 12.7 GB |
+| OS | Ubuntu 22.04.3 |
 
 ## Dataset
 Kami menggunakan data berupa gambar fashion yang tersedia dari [kaggle](https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset). Dataset yang kami gunakan sebantak 7 kelas yaitu gambar kacamata sebanyak 1000 data, jam tangan sebanyak 2558 gambar, tas sebanyak 1000 gambar, bawahan sebanyak 790 gambar, atasan sebanyak 1330 gambar, sepatu sebanyak 1000 gambar dan sandal sebanyak 1876 gambar. Dengan total sebanyak 8744 gambar dimana kami bagi menjadi dataset untuk training sebesar 70% atau sebanyak 6691 gambar, lalau dataset test sebesar 20% atau sebanyak 1906 gambar, dan data validasi sebesar 10% atau sebanyak 957 gambar. Setelah itu, kami lakukan image processing untuk mendapatkan gambar sketsa dengan cara edge detection. Berikut link untuk dataset yang telah dilakukan image processing
