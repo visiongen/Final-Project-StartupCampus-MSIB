@@ -79,7 +79,15 @@ Insert an image regarding your training and evaluation performances (especially 
 Show some implementations (demos) of this model. For example, if your team works on object detection tasks, show an image or a video (or GIF) of how your model performs on the testing data.
 
 ### Deployment (Optional)
-Describe and show how you deploy this project (e.g., using Streamlit or Flask), if any.
+Pada deployment kami menggunakan streamlit, dapat diakses pada link berikut : [visiongen.streamlit.app](https://visiongen.streamlit.app).
+
+berikut merupakan screenshot
+
+![image](https://github.com/visiongen/Final-Project-StartupCampus-MSIB/blob/main/assets/deployment.jpeg?raw=true)
+
+anda dapat memasukan gambar sketsa lalu mengenerate untuk memperoleh gambar desain nyata, seperti pada video di bawah ini:
+
+![video](https://github.com/visiongen/Final-Project-StartupCampus-MSIB/blob/main/assets/deployment.gif?raw=true)
 
 ## Supporting Documents
 ### Presentation Deck
