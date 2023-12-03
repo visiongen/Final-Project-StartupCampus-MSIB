@@ -77,11 +77,10 @@ Feel free to adjust the columns in the table below.
 #### 2. Ablation Study
 Any improvements or modifications of your base model, should be summarized in this table. Feel free to adjust the columns in the table below.
 
-| model | layer_A | layer_B | layer_C | ... | top1_acc | top5_acc |
-| --- | --- | --- | --- | --- | --- | --- |
-| vit_b_16 | Conv(3x3, 64) x2 | Conv(3x3, 512) x3 | Conv(1x1, 2048) x3 | ... | 77.43% | 80.08% |
-| vit_b_16 | Conv(3x3, 32) x3 | Conv(3x3, 128) x3 | Conv(1x1, 1028) x2 | ... | 72.11% | 76.84% |
-| ... | ... | ... | ... | ... | ... | ... |
+| model | GAN Mode | Architecture |
+| --- | --- | --- | --- |
+| pix_2_pix_pinka | Vanilla | ResNet |
+| vit_b_16 | LSGAN | UNet |
 
 #### 3. Training/Validation Curve
 Insert an image regarding your training and evaluation performances (especially their losses). The aim is to assess whether your model is fit, overfit, or underfit.
