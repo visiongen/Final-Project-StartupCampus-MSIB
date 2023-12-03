@@ -78,6 +78,11 @@ Insert an image regarding your training and evaluation performances (especially 
 ### Testing
 Show some implementations (demos) of this model. For example, if your team works on object detection tasks, show an image or a video (or GIF) of how your model performs on the testing data.
 
+Berikut hasil gambar yang telah digenerate, dimana pada baris pertama merupakan gambar input, baris kedua merupakan gambar asli, dan baris ketiga merupakan hasil generate
+
+|![image](https://github.com/visiongen/Final-Project-StartupCampus-MSIB/blob/main/assets/image_736.jpg?raw=true)|![image](https://github.com/visiongen/Final-Project-StartupCampus-MSIB/blob/main/assets/image_809.jpg?raw=true)|![image](https://github.com/visiongen/Final-Project-StartupCampus-MSIB/blob/main/assets/image_810.jpg?raw=true)|![image](https://github.com/visiongen/Final-Project-StartupCampus-MSIB/blob/main/assets/image_855.jpg?raw=true)|![image](https://github.com/visiongen/Final-Project-StartupCampus-MSIB/blob/main/assets/image_882.jpg?raw=true)|![image](https://github.com/visiongen/Final-Project-StartupCampus-MSIB/blob/main/assets/image_885.jpg?raw=true)|![image](https://github.com/visiongen/Final-Project-StartupCampus-MSIB/blob/main/assets/image_887.jpg?raw=true)|![image](https://github.com/visiongen/Final-Project-StartupCampus-MSIB/blob/main/assets/image_889.jpg?raw=true)|![image](https://github.com/visiongen/Final-Project-StartupCampus-MSIB/blob/main/assets/image_922.jpg?raw=true)|![image](https://github.com/visiongen/Final-Project-StartupCampus-MSIB/blob/main/assets/image_950.jpg?raw=true)|
+
+
 ### Deployment (Optional)
 Pada deployment kami menggunakan streamlit, dapat diakses pada link berikut : [visiongen.streamlit.app](https://visiongen.streamlit.app).
 
@@ -91,10 +96,10 @@ anda dapat memasukan gambar sketsa lalu mengenerate untuk memperoleh gambar desa
 
 ## Supporting Documents
 ### Presentation Deck
-- Link: https://...
+- Link: [https://github.com/visiongen/Final-Project-StartupCampus-MSIB/blob/main/presentasi.pdf](https://github.com/visiongen/Final-Project-StartupCampus-MSIB/blob/main/presentasi.pdf)
 
 ### Business Model Canvas
-Provide a screenshot of your Business Model Canvas (BMC). Give some explanations, if necessary.
+- Link : [https://github.com/visiongen/Final-Project-StartupCampus-MSIB/blob/main/bussines%20model%20canvas.pdf](https://github.com/visiongen/Final-Project-StartupCampus-MSIB/blob/main/bussines%20model%20canvas.pdf)
 
 ### Short Video
 Provide a link to your short video, that should includes the project background and how it works.
@@ -102,7 +107,7 @@ Provide a link to your short video, that should includes the project background 
 
 ## References
 Provide all links that support this final project, i.e., papers, GitHub repositories, websites, etc.
-- Link: https://...
+- Link: [https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset](https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset)
 - Link: https://...
 - Link: https://...
 
